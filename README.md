@@ -3,6 +3,6 @@
 :memo: :
 
 - forms 
-- Accebility
+- Accessibility
 - Fun with css
 - (update soon)🤓
